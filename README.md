@@ -48,4 +48,4 @@ A licença de uso e distribuição será definida conforme a estratégia de publ
 
 **Siga o Farol — O Farol aponta. Você decide.**
 
-Desenvolvido por **Dev Em Casa**.
+Desenvolvido por **Dev Em Casa** https://devemcasa.com.br/.
